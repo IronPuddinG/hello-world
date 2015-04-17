@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+In case of fire, throw cat out of window
